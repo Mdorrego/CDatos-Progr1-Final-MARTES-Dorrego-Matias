@@ -33,7 +33,7 @@ Permite gestionar libros agregándolos, listándolos, buscándolos y eliminándo
 
 ```bash
 git clone https://github.com/Mdorrego/CDatos-Progr1-Final-MARTES-Dorrego-Matias.git
-cd sistema-biblioteca
+cd CDatos-Progr1-Final-MARTES-Dorrego-Matias
 ```
 
 ### 2. Manejo del entorno virtual
