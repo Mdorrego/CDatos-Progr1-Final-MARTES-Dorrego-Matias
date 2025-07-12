@@ -24,12 +24,29 @@ Permite gestionar libros agregándolos, listándolos, buscándolos y eliminándo
 - Eliminar libro por título o ISBN
 - Guardado automático en archivo JSON
 
+<img width="1140" height="231" alt="image" src="https://github.com/user-attachments/assets/1f294e17-f3df-4d4f-b0dc-da7779d89a55" />
+
 ---
 
 ## Instalación y uso
-
 ### 1. Clonar el repositorio
 
 ```bash
 git clone https://github.com/Mdorrego/CDatos-Progr1-Final-MARTES-Dorrego-Matias.git
 cd sistema-biblioteca
+```
+
+### 2. Manejo del entorno virtual
+
+- Crear el entorno virtual
+python -m venv venv
+
+- Activar el entorno virtual
+venv\Scripts\activate (WINDOWS)
+source venv/bin/activate (MAC/LINUX)
+
+- Instalar dependencias
+pip install -r requirements.txt
+
+- Ejecutar el programa
+python main.py
