@@ -31,5 +31,5 @@ Permite gestionar libros agregándolos, listándolos, buscándolos y eliminándo
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/Mdorrego/Dorrego_Matias_Final_Martes.git
+git clone https://github.com/Mdorrego/CDatos-Progr1-Final-MARTES-Dorrego-Matias.git
 cd sistema-biblioteca
